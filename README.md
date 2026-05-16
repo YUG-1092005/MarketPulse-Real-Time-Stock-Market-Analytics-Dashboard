@@ -54,7 +54,7 @@ Created analytical features such as:
 ###  Real-Time Market Dashboard
 
 * Live market movement tracking
-* Candlestick/price trend visualization
+* Live price trend visualization
 * Bullish vs Bearish volume analysis
 * Dynamic KPI cards
 * Real-time investor insights
@@ -81,6 +81,11 @@ Created analytical features such as:
 ## 🔹 Company Fundamentals Dashboard
 
 <img width="1328" height="748" alt="image" src="https://github.com/user-attachments/assets/b5433be7-ec6b-46cc-8c1b-5f721c18df95" />
+
+---
+
+## 🔹 Data Stored in PostgreSQL
+<img width="1328" height="748" alt="image" src="https://github.com/user-attachments/assets/17223f36-6c6f-4818-9864-109edfeca26c" />
 
 
 ---
