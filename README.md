@@ -1,6 +1,6 @@
-# 📈 MarketPulse – Real-Time Stock Market Analytics Dashboard
+#  MarketPulse – Real-Time Stock Market Analytics Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 
 MarketPulse is a real-time stock market analytics project built using **Python, PostgreSQL, Yahoo Finance API, and Power BI**.
 The project fetches live NSE stock market data at scheduled intervals, performs financial feature engineering, stores data dynamically in PostgreSQL, and visualizes interactive dashboards for real-time market monitoring and investor-focused analysis.
@@ -9,7 +9,7 @@ This project focuses on transforming raw stock market data into meaningful busin
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 * **Python**
 * **PostgreSQL**
@@ -23,9 +23,9 @@ This project focuses on transforming raw stock market data into meaningful busin
 
 ---
 
-# 📊 Key Features
+#  Key Features
 
-## ✅ Real-Time Market Data Pipeline
+##  Real-Time Market Data Pipeline
 
 * Fetches live NSE stock data every 15 minutes
 * Scheduled automated data refresh
@@ -34,7 +34,7 @@ This project focuses on transforming raw stock market data into meaningful busin
 
 ---
 
-## ✅ Financial Feature Engineering
+##  Financial Feature Engineering
 
 Created analytical features such as:
 
@@ -49,9 +49,9 @@ Created analytical features such as:
 
 ---
 
-## ✅ Interactive Power BI Dashboards
+##  Interactive Power BI Dashboards
 
-### 📌 Real-Time Market Dashboard
+###  Real-Time Market Dashboard
 
 * Live market movement tracking
 * Candlestick/price trend visualization
@@ -59,7 +59,7 @@ Created analytical features such as:
 * Dynamic KPI cards
 * Real-time investor insights
 
-### 📌 Company Fundamentals Dashboard
+###  Company Fundamentals Dashboard
 
 * Financial health analysis
 * Analyst recommendation analysis
@@ -70,7 +70,7 @@ Created analytical features such as:
 
 ---
 
-# 📈 Dashboard Preview
+#  Dashboard Preview
 
 ## 🔹 Real-Time Market Dashboard
 
@@ -85,7 +85,7 @@ Created analytical features such as:
 
 ---
 
-# 🧠 Analytical Insights Included
+#  Analytical Insights Included
 
 * Intraday stock movement analysis
 * Risk vs Growth visualization
@@ -97,7 +97,7 @@ Created analytical features such as:
 
 ---
 
-# ⚙️ Data Pipeline Workflow
+#  Data Pipeline Workflow
 
 ```text
 Yahoo Finance API
@@ -117,7 +117,7 @@ Investor & Market Insights
 
 # ⚠️ Current Status
 
-## 🚧 Project Under Active Development
+##  Project Under Active Development
 
 Current version includes:
 
@@ -125,10 +125,10 @@ Current version includes:
 * PostgreSQL integration
 * Power BI dashboarding
 * Financial analytics & feature engineering
-* * Live auto-refresh dashboard 
+* Live auto-refresh dashboard 
 
 
-### 🔄 Upcoming Features
+###  Upcoming Features
 
 * Automated email alert system
 * Deployed report link
@@ -149,7 +149,7 @@ This project is built for educational, analytical, and portfolio purposes to dem
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Yug Trivedi**
 
