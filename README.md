@@ -29,6 +29,7 @@ This project focuses on transforming raw stock market data into meaningful busin
 
 * Fetches live NSE stock data every 15 minutes
 * Scheduled automated data refresh
+* Automated short market summary sent via email
 * Weekend and market-hour validation logic
 * Dynamic PostgreSQL data storage
 
@@ -70,7 +71,7 @@ Created analytical features such as:
 
 ---
 
-#  Dashboard Preview
+#  Project Preview
 
 ## 🔹 Real-Time Market Dashboard
 
@@ -87,8 +88,14 @@ Created analytical features such as:
 ## 🔹 Data Stored in PostgreSQL
 <img width="1328" height="748" alt="image" src="https://github.com/user-attachments/assets/17223f36-6c6f-4818-9864-109edfeca26c" />
 
+---
+
+## 🔹 Automated Short Summary in Email
+<img width="1328" height="748" alt="image" src="https://github.com/user-attachments/assets/b7540272-eb02-43c2-b950-cf81d082c778" />
+
 
 ---
+
 
 #  Analytical Insights Included
 
@@ -117,28 +124,6 @@ Power BI Dashboards
         ↓
 Investor & Market Insights
 ```
-
----
-
-# ⚠️ Current Status
-
-##  Project Under Active Development
-
-Current version includes:
-
-* Real-time stock data fetching
-* PostgreSQL integration
-* Power BI dashboarding
-* Financial analytics & feature engineering
-* Live auto-refresh dashboard 
-
-
-###  Upcoming Features
-
-* Automated email alert system
-* Deployed report link
-
-> Real-time dashboard updates are currently under development and will be enhanced in upcoming versions.
 
 ---
 
